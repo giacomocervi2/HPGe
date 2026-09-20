@@ -1,4 +1,0 @@
-/home/cervig/geant4_HPGe/build/CMakeFiles/rebuild_cache.dir
-/home/cervig/geant4_HPGe/build/CMakeFiles/HPGe.dir
-/home/cervig/geant4_HPGe/build/CMakeFiles/edit_cache.dir
-/home/cervig/geant4_HPGe/build/CMakeFiles/sim.dir
